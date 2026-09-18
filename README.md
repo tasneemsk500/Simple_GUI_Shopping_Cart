@@ -17,9 +17,7 @@ points during a user’s interaction with the e-store.
 the data that will be read by the application when the user makes a selection. Each line
 in this file contains five entries: an item id (a string), a quoted string containing the
 description of the item, an in stock status (a string), the quantity on hand (an integer),
-and the unit price for one of the item (a double). A sample file is provided for you on
-WebCourses. Feel free to create your own input file for testing purposes or augment the
-provided input file.
+and the unit price for one of the item (a double).
 3. An output file (append only) named “transactions.csv” must be created that
 uniquely identifies and logs each user transaction with the e-store. The unique
 transaction id will be generated as a permutation of the current date/time when the
