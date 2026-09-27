@@ -21,5 +21,4 @@ and the unit price for one of the item (a double).
 3. An output file (append only) named “transactions.csv” must be created that
 uniquely identifies and logs each user transaction with the e-store. The unique
 transaction id will be generated as a permutation of the current date/time when the
-transaction occurred (see below). Note that this file must use a .csv extension and not
-a .txt extension. We’ll point out why this should be the case in class/discussions.
+transaction occurred (see below).
